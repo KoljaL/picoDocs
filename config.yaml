@@ -1,0 +1,33 @@
+App_Name: picoDocs
+Doc_Folder: docs
+
+
+User:
+    admin:
+        Password: admin
+        Private_Folder:
+            admin_private
+            user_share
+    boto:
+        Password: test
+        Private_Folder:
+            boto_privat
+            user_share
+
+
+Doc_Extension: .md
+Theme_Folder: theme
+Template_File: RtD.php
+Template_Style: RtD.css
+
+
+Invisible_Folders:
+    images
+    photos
+Invisible_Files:
+    index
+
+
+Session_Timeout: 1800
+Show_Debug_Aray: 0
+Use_HTML_Purifier: 0
