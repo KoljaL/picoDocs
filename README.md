@@ -1,5 +1,7 @@
 # PicoDocs                      
-A simple filebased Markdown Dokumentation Management System.           
+A simple filebased Markdown Dokumentation Management System.         
+
+!()[picoDocs.png]
 ## Dependencies                   
 PHP > 7.x                   
           
