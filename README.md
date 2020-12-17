@@ -1,7 +1,7 @@
 # PicoDocs                      
 A simple filebased Markdown Dokumentation Management System.         
 
-!()[picoDocs.png]
+![picoDocs.png](picoDocs.png)
 ## Dependencies                   
 PHP > 7.x                   
           
